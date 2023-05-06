@@ -15,7 +15,7 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "As a full stack developer, I take a holistic approach to building software solutions, from the front-end user interface to the back-end server infrastructure. My goal is to deliver high-quality, scalable, and maintainable code that meets the needs of end-users and business stakeholders alike. I am passionate about staying up-to-date with the latest web technologies and tools, and I am committed to continuously improving my skills and knowledge to deliver exceptional results.",
+        "As a full stack developer, I take a holistic approach to building software solutions, from the front-end user interface to the back-end server infrastructure. My goal is to deliver high-quality, scalable, and maintainable code .",
     },
     {
       img: profilePic2,
@@ -25,7 +25,7 @@ const Testimonial = () => {
     {
       img: profilePic3,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "that meets the needs of end-users and business stakeholders alike. I am passionate about staying up-to-date with the latest web technologies and tools, and I am committed to continuously improving my skills and knowledge to deliver exceptional results",
     },
     {
       img: profilePic4,
